@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+form{
+	border:solid 1px black;
+	margin:0 auto;
+	width:50%;
+	text-align:center;
+}
+
+.back{
+	background-color:red;
+}
+
+div,input[type="submit"]{
+	margin:10px 0;
+}
+
+textarea{
+	vertical-align:middle;
+}
